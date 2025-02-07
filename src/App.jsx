@@ -1,13 +1,8 @@
- 
-import "./App.css";
-
 function App() {
   return (
     <>
       <div>
-        <p className="saludar">
-          HOLA MUNDO
-        </p>
+        <h1 class="text-3xl font-bold underline">Hello world!</h1>
       </div>
     </>
   );
